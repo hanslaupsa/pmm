@@ -16,7 +16,7 @@ parameters
 	USE_EMISSION_CAP	= false;!false;!
 	USE_EMISSION_PRICE	= true;!true;!
 	
-	PRINT_STATS			= true;
+!	PRINT_STATS			= true;
 end-parameters
 
 setparam("XPRS_loadnames",true);

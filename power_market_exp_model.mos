@@ -13,8 +13,8 @@ parameters
 	SUPPLY_SIDE_WORKBOOK 	= "supply_side_data_exp.xlsx";
 	DEMAND_WORKBOOK			= "demand_6periods.xlsx";
 	
-	USE_EMISSION_CAP	= true;!false;!
-	USE_EMISSION_PRICE	= false;!true;!
+	USE_EMISSION_CAP	= false;!false;!
+	USE_EMISSION_PRICE	= true;!true;!
 	
 	PRINT_STATS			= true;
 end-parameters
